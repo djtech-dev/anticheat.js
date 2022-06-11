@@ -1,5 +1,5 @@
 # anticheat.js
-An simple tampering detection library for Javascript (Web, Node.js, Deno)
+An simple tampering detection library for Javascript (Web)
 
 - Extremely lite (5 lines of code, 1 function)
 - Easy to use (just `isTampered`)
