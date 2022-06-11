@@ -6,11 +6,12 @@ An simple tampering detection library for Javascript (Web, Node.js, Deno)
 
 ## I. NOTE
 
-anticheat.js requires Lodash.
+anticheat.js requires Lodash. <br>
+You can import it from the url `https://github.com/djtech-dev/anticheat.js/raw/main/anticheat.js`.
 
 ## II. How to use it.
 
-To check if an object has been changed, just run `isTampered(obj)`.
-`obj` is the string that contains the name of the object.
+To check if an object has been changed, just run `isTampered(obj)`. <br>
+`obj` is the string that contains the name of the object. <br><br>
 
 Example: `isTampered('document')` checks if 'document' was changed.
